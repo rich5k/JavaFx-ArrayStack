@@ -6,7 +6,7 @@
 
 /**
  *
- * @author richa
+ * @author richard_anatsui
  */
 public class Person {
      public static enum Gender{MALE, FEMALE};
